@@ -1,4 +1,5 @@
 ## SED Fitting Codes
+{% include_relative SEDDiagram.html %}
 
 ## Stellar Templates
 
