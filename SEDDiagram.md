@@ -17,4 +17,4 @@ CIGALE
 BayeSED
 BEAGLE
 
-{% include_relative SEDDiagram.html %}
+{% include_relative SEDDiagram_plot.html %}

@@ -4,4 +4,4 @@ permalink: /StellarTemplates/
 
 ## Stellar Templates
 
-{% include_relative StellarTemplates.html %}
+{% include_relative StellarTemplates_plot.html %}
