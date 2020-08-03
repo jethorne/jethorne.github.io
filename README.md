@@ -1,6 +1,8 @@
-## SED Fitting Codes
-{% include_relative SEDDiagram.html %}
+# Interactive Diagrams
+Author: Jess Thorne
 
-## Stellar Templates
 
-{% include_relative StellarTemplates.html %}
+## SED Fitting Diagram
+[SED Fitting Code Diagram](SEDDiagram.md)
+
+
