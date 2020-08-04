@@ -50,8 +50,8 @@ Here is an interactive version of my SED Fitting Code diagram.
 * BC03 = [Bruzual & Charlot (2003)](arXiv:astro-ph/0309134)
 * M05 =[Maraston (2005)](arXiv:astro-ph/0410207)
 * E-MILES = [Vazdekis et al. (2016)](arXiv:1612.01187)
-*BPASS = [Eldridge et al. (2017)](https://arxiv.org/pdf/1710.02154.pdf)
-*FSPS = [Conroy et al. (2009)](http://adsabs.harvard.edu/abs/2009ApJ...699..486C)
+* BPASS = [Eldridge et al. (2017)](https://arxiv.org/pdf/1710.02154.pdf)
+* FSPS = [Conroy et al. (2009)](http://adsabs.harvard.edu/abs/2009ApJ...699..486C)
 
 ###### Dust Attenuation
 * [Cardelli (1989)](https://ui.adsabs.harvard.edu/abs/1989ApJ...345..245C/abstract)
