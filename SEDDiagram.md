@@ -5,18 +5,20 @@ Here is an interactive version of my SED Fitting Code diagram.
 
 ###### The include codes are:
 
-###### ProSpect - Robotham + (2020) 
+###### ProSpect 
 * [arXiv](https://arxiv.org/abs/2002.06980) 
 * [github](http://www.github.com/asgr/ProSpect) 
 * [webtool](https://prospect.icrar.org) 
 * [vignettes](https://rpubs.com/asgr/565799)
 
-######  MAGPHYS - da Cunha + (2008) 
+######  MAGPHYS
 * [arXiv](https://arxiv.org/abs/1111.3961) 
 * [website](http://www.iap.fr/magphys/)
 
 ######  Prospector -  
 * [arXiv](https://arxiv.org/abs/1609.09073)
+* [github](https://github.com/bd-j/prospector)
+* [readthedocs](https://prospect.readthedocs.io/en/latest/)
 
 ######  BAGPIPES -  
 * [arXiv](https://arxiv.org/abs/1712.04452) 
@@ -24,12 +26,15 @@ Here is an interactive version of my SED Fitting Code diagram.
 
 ######  CIGALE - 
 * [website](https://cigale.lam.fr/)
+* [arxiv](https://arxiv.org/abs/1811.03094)
 
 ######  BayeSED - 
 * [readthedocs](https://bayesed.readthedocs.io) 
 * [bitbucket](https://bitbucket.org/hanyk/bayesed/)
 
 ######  BEAGLE - 
+* [arxiv](http://arxiv.org/abs/1603.03037)
+* [website](http://www.jacopochevallard.org/beagle/)
 
 ######  AGN Fitter  
 * [arXiv](https://arxiv.org/abs/1606.05648)
